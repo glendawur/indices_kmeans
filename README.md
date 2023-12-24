@@ -13,7 +13,7 @@ Adjusted Rand Index (ARI) and Mean Absolute Relative Error (MARE) between predic
 Original data used for the experiments (1.3 GB) and intermediate numpy matrices with partitions for each dataset (71 GB) can be provided
 on the request.
 
-Requests: a.g.rykov@student.tue.nl
+Requests: a.g.rykov@glndwr.ru
 
 #### Datasets used in the experiments:
 
